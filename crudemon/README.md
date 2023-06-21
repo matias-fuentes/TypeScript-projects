@@ -1,12 +1,12 @@
-# CRUDEMON
+# [Crudemon](https://crudemon.vercel.app)
 
-Create, Read, Update and Delete your own Pokémons, and be a Pokémon master!
-
-WEBPAGE: https://crudemon.herokuapp.com/
-
-GITHUB REPOSITORY: https://github.com/matias-fuentes/Crudemon/
+WEBPAGE: https://crudemon.vercel.app
 
 VIDEO PRESENTATION: https://www.youtube.com/watch?v=JbLpnJQB4Vc
+
+## Description
+
+Step into the captivating world of Pokémon with Crudemon, the ultimate webpage for trainers of all levels. Seamlessly manage your Pokémon collection, from creating new creatures to reading their unique stats, updating their abilities, and even bidding them farewell if needed. With Crudemon, you have the power to nurture and evolve your favorite Pokémons, creating a team that reflects your strategic prowess.
 
 ## Sidenotes
 
